@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="5"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>DMS DoxPro - Flextronics Document Archiving statistics</title>
+    <style type="text/css">
+     html, body {
+        height: 100%;
+     }
+     body {
+          margin-top: -5px;
+          padding: 0 3em;
+          font: 18pt normal 'Myriad Pro', Arial, sans-serif;
+          background: rgb(208,208,208); /* Old browsers */
+          background: -moz-radial-gradient(right center, #fff, #bbb);
+          background: -webkit-radial-gradient(right center, #fff, #bbb);
+    }
+    ul {
+      padding: 0;
+      margin: 0;
+      overflow: auto;
+    }
+    li {
+      list-style: none;
+      padding: 5px 0 5px 5px;
+      margin: 1px 0;
+      border-radius: 7px;
+      border: 2px solid #bbb;
+      cursor: pointer;
+      -webkit-transition-property: border-color;
+      -webkit-transition-duration: 0.3s;
+      -webkit-transition-timing-function: ease-in-out;
+      -moz-transition-property: border-color;
+      -moz-transition-duration: 0.3s;
+      -moz-transition-timing-function: ease-in-out;
+      -o-transition-property: border-color;
+      -o-transition-duration: 0.3s;
+      -o-transition-timing-function: ease-in-out;
+
+      background: rgb(255,255,255); /* Old browsers */
+      background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(241,241,241,1) 50%, rgba(225,225,225,1) 51%, rgba(246,246,246,1) 100%); /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(241,241,241,1)), color-stop(51%,rgba(225,225,225,1)), color-stop(100%,rgba(246,246,246,1))); /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* Opera11.10+ */
+      background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* W3C */
+    }
+    li:hover {
+      border-color: #36B;
+    }
+    section {
+      display: inline-table;
+      vertical-align: top;
+      align: center;
+      margin-right: 1em;
+    }
+    td {   margin-left: auto;   margin-right: auto;   width: 10em; }
+        .tdForShipment {
+     width: 8em;   margin-top: -5px; padding: 0 10em;font: 18pt normal 'Myriad Pro', Arial, sans-serif;
+        }
+
+    </style>
+	</head>
+	<body>
+    <br /><br />
+    <div align="center">
+    <section>
+        <ul>
+          <li><header>DMS DoxPro - Flextronics Document Archiving statistics - %date%</header></li>
+          <li><center>מגדל העמק</center></li>
+          <li>
+                <table>
+                    <tr style="background-color: #c0c0c0;" >
+                        <td>Document Type</td>
+                        <td>סומן</td>
+                        <td>תוייק</td>
+                        <td>מס' נפילות</td>
+                        <td>מס' נפילות (%)</td>
+                        <td>סך הכל</td>
+                    </tr>
+                    <tr style="background-color: #e0e0e0; color: %inv_fnt_color%" >
+                        <td>Customer Invoice</td>
+                        <td></td>
+                        <td>%inv_good%</td>
+                        <td>%inv_bad%</td>
+                        <td>%inv_bad_pcnt%</td>
+                        <td>%inv_total%</td>
+                    </tr>
+                    <tr style="background-color: #e0e0e0; color: %ps_fnt_color%" >
+                        <td>Packing Slip</td>
+                        <td>%ps_good_signed%</td>
+                        <td>%ps_good_archive%</td>
+                        <td>%ps_bad%</td>
+                        <td>%ps_bad_pcnt%</td>
+                        <td>%ps_total%</td>
+                    </tr>
+                </table>
+          </li>
+          <li><center>אופקים</center></li>
+          <li>
+                <table>
+                    <tr style="background-color: #c0c0c0;" >
+                        <td>Document Type</td>
+                        <td>סומן</td>
+                        <td>תוייק</td>
+                        <td>מס' נפילות</td>
+                        <td>מס' נפילות (%)</td>
+                        <td>סך הכל</td>
+                    </tr>
+                    <tr style="background-color: #e0e0e0; color: %ps_fnt_color_1%" >
+                        <td>Packing Slip</td>
+                        <td>%ps_good_1_signed%</td>
+                          <td>%ps_good_1_archive%</td>
+                        <td>%ps_bad_1%</td>
+                        <td>%ps_bad_pcnt_1%</td>
+                        <td>%ps_total_1%</td>
+                    </tr>
+                </table>
+          </li>
+              <li><center>מלנוקס</center></li>
+          <li>
+                <table>
+                    <tr style="background-color: #c0c0c0;" >
+                        <td>Document Type</td>
+                        <td>סומן</td>
+                        <td>תוייק</td>
+                        <td>מס' נפילות</td>
+                        <td>מס' נפילות (%)</td>
+                        <td>סך הכל</td>
+                    </tr>
+                    <tr style="background-color: #e0e0e0; color: %ps_fnt_color_1_mel%" >
+                        <td>Packing Slip</td>
+                        <td>%ps_good_1_signed_mel%</td>
+                          <td>%ps_good_1_archive_mel%</td>
+                        <td>%ps_bad_1_mel%</td>
+                        <td>%ps_bad_pcnt_1_mel%</td>
+                        <td>%ps_total_1_mel%</td>
+                    </tr>
+                </table>
+          </li>
+              <li><center>Shipments</center></li>
+          <li>
+                <table>
+                    <tr style="background-color: #c0c0c0;" >
+                        <td>Document Type</td>
+                        <td>פוצל</td>
+                       
+                        <td>לקיחת נתונים מבאאן</td>
+                        
+                        <td>תוייק</td>
+                          <td>מס' נפילות</td>
+                        <td>מס' נפילות (%)</td>
+                        <td >סך הכל</td>
+                    </tr>
+                    
+                    <tr style="background-color: #e0e0e0; color: %COC_fnt_color%" >
+                        <td>COC</td>
+                        <td style="width: 8em;">%COC_getbarcode%</td>
+                    
+                        <td style="width: 8em;">%COC_getdata%</td>
+                        <td style="width: 8em;">%COC_good%</td>
+                        <td style="width: 8em;">%COC_bad%</td>
+                        <td style="width: 8em;">%COC_bad_pcnt%</td>
+                        <td style="width: 8em;">%COC_total%</td>
+                    </tr>
+                      <tr style="background-color: #e0e0e0; color: %Invoice_fnt_color%" >
+                        <td style="width: 8em;">Invoice</td>
+                        <td style="width: 8em;">%Invoice_getbarcode%</td>
+                        <td style="width: 8em;">%Invoice_getdata%</td>
+                        <td style="width: 8em;">%Invoice_good%</td>
+                        <td style="width: 8em;">%Invoice_bad%</td>
+                        <td style="width: 8em;">%Invoice_bad_pcnt%</td>
+                        <td style="width: 8em;">%Invoice_total%</td>
+                    </tr>
+                      <tr style="background-color: #e0e0e0; color: %DeliveryNote_fnt_color%" >
+                        <td style="width: 8em;">Delivery Note</td>
+                        <td style="width: 8em;">%DeliveryNote_getbarcode%</td>
+                        <td style="width: 8em;">%DeliveryNote_getdata%</td>
+                        <td style="width: 8em;">%DeliveryNote_good%</td>
+                        <td style="width: 8em;">%DeliveryNote_bad%</td>
+                        <td style="width: 8em;">%DeliveryNote_bad_pcnt%</td>
+                        <td style="width: 8em;">%DeliveryNote_total%</td>
+                    </tr>
+                </table>
+          </li>
+        </ul>
+    </section>
+    </div>	
+    </body>
+</html>

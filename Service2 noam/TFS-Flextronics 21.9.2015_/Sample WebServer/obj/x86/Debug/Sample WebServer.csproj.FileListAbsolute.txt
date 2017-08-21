@@ -1,0 +1,52 @@
+C:\GRT\TFS\Sample WebServer\bin\Debug\Index.htm
+C:\GRT\TFS\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\GRT\TFS\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\GRT\TFS\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\GRT\TFS\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\GRT\TFS\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\bin\Debug\Index.htm
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\obj\x86\Debug\Sample WebServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\Users\User\Desktop\TFS - ÆàÜù\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\bin\Debug\Index.htm
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\obj\x86\Debug\Sample WebServer.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\bin\Debug\Index.htm
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Index.htm
+C:\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\TFS-Flextronics 21.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\TFS-Flextronics 21.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Index.htm
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Index.htm
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\bin\Debug\Index.htm
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\bin\Debug\Sample WebServer.exe.config
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\bin\Debug\Sample WebServer.exe
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\bin\Debug\Sample WebServer.pdb
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\obj\x86\Debug\Sample WebServer.exe
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\obj\x86\Debug\Sample WebServer.pdb
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\Sample WebServer\obj\x86\Debug\Sample WebServer.csprojResolveAssemblyReference.cache

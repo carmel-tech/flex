@@ -1,0 +1,150 @@
+C:\GRT\TFS\deliveryNoteService\bin\Debug\Index.html
+C:\GRT\TFS\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\GRT\TFS\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\GRT\TFS\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\GRT\TFS\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\GRT\TFS\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\GRT\TFS\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\GRT\TFS\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\GRT\TFS\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\GRT\TFS\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\GRT\TFS\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\GRT\TFS\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\GRT\TFS\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\GRT\TFS\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\Index.html
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\Index.html
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Users\Golan\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\Index.html
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Users\User\Desktop\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\Index.html
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\ClearImageNet.70.dll
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Flex\TFS-Flextronics 10.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\ClearImageNet.70.dll
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Flex\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csprojResolveAssemblyReference.cache
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.csproj.GenerateResource.Cache
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb

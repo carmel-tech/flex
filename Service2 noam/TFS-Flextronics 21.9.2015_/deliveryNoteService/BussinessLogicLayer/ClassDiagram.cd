@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BussinessLogicLayer.FlexInvoiceExt">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AwACQAMQBAahFAIKAhEAUEAAJAqOCgySAMAUByg4ckg=</HashCode>
+      <FileName>FlexInvoiceExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BussinessLogicLayer.DOXFields">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DOXFields.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BussinessLogicLayer.DoxHandler">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEEAGBAAAAAwICCAAApAAAEAIAgiYCABAAAAgAAAAE=</HashCode>
+      <FileName>DoxHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BussinessLogicLayer.InvoiceLine">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAEAAAAAAAAQABAAAAAAIACAAAUAAQIAgACAAA=</HashCode>
+      <FileName>InvoiceLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

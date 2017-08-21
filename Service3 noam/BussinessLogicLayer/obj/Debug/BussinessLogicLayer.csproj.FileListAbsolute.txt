@@ -1,0 +1,151 @@
+C:\GRT\TFS\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\GRT\TFS\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\GRT\TFS\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\GRT\TFS\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\GRT\TFS\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\GRT\TFS\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\GRT\TFS\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\Golan\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\User\Desktop\TFS - ÆàÜù\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\User\Desktop\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\new tehila\New folder\12.07 service 3\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\bin\Debug\ClearImageNet.70.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.Properties.Resources.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam - Copy\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb

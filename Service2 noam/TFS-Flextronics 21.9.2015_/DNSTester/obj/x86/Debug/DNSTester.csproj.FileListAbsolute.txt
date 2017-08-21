@@ -1,0 +1,115 @@
+C:\GRT\TFS\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\GRT\TFS\DNSTester\bin\Debug\DNSTester.exe.config
+C:\GRT\TFS\DNSTester\bin\Debug\DNSTester.exe
+C:\GRT\TFS\DNSTester\bin\Debug\DNSTester.pdb
+C:\GRT\TFS\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\GRT\TFS\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\GRT\TFS\DNSTester\bin\Debug\Abbyy10.dll
+C:\GRT\TFS\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\GRT\TFS\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\GRT\TFS\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\GRT\TFS\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Users\User\Desktop\TFS - ÆàÜù\DNSTester\bin\Debug\DNSTester.exe
+C:\Users\User\Desktop\TFS - ÆàÜù\DNSTester\bin\Debug\DNSTester.pdb
+C:\Users\User\Desktop\TFS - ÆàÜù\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TFS - ÆàÜù\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\Users\User\Desktop\TFS - ÆàÜù\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\DNSTester.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\DNSTester.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\Abbyy10.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\itextsharp.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DNSTester.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DNSTester.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\Abbyy10.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\itextsharp.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\Users\mig_dox\Desktop\Versions -Flextronics Service\TFS-Flextronics 10.9.2015\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DNSTester.exe
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DNSTester.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\Abbyy10.dll
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\ClearImageNet.70.dll
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\itextsharp.dll
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\Flex\TFS-Flextronics 10.9.2015\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\Abbyy10.dll
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\ClearImageNet.70.dll
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\itextsharp.dll
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\Flex\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe.config
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.pdb
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\Abbyy10.dll
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\itextsharp.dll
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\Abbyy10.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\itextsharp.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\Esther - Copy\Org\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe.config
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.exe
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DNSTester.pdb
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\Abbyy10.dll
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\itextsharp.dll
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\miryam\service noam 1\2-ReturnDeatils\TFS-Flextronics 21.9.2015\DNSTester\obj\x86\Debug\DNSTester.pdb
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\DNSTester.exe.config
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\DNSTester.exe
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\DNSTester.pdb
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\BussinessLogicLayer.dll
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\DataAccessLayer.dll
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\Abbyy10.dll
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\itextsharp.dll
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\AbbyyInterface.dll
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\bin\Debug\BussinessLogicLayer.pdb
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\obj\x86\Debug\DNSTester.csprojResolveAssemblyReference.cache
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\obj\x86\Debug\DNSTester.exe
+C:\tehila\Service2 noam\TFS-Flextronics 21.9.2015_\DNSTester\obj\x86\Debug\DNSTester.pdb

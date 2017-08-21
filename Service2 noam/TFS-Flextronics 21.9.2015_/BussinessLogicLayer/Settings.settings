@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BussinessLogicLayer" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CheckedPackingSlipMIGPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\PsCheckedWithBarcodes</Value>
+    </Setting>
+    <Setting Name="ConnectionStringForBaan" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SERVER=10.229.96.23;DATABASE=dms_dox;UID=dms_dox;PASSWORD=xodsmd;Allow User Variables=True;</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=localhost;Initial Catalog=DoxPro_Env_Flex;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
