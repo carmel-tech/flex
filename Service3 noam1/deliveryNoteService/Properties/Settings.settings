@@ -1,0 +1,149 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="deliveryNoteService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NewPackingSlipPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Projects\FlexAutoArchiving\PackingSlips\NewPackingSlips</Value>
+    </Setting>
+    <Setting Name="BAANLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mignt002\Public\PackingSlipsLog\{ccc}\in</Value>
+    </Setting>
+    <Setting Name="ItemsQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">select t_item,t_ddat,t_orno from baandb.ttdsls045{0} where t_dino={1}</Value>
+    </Setting>
+    <Setting Name="CustomerOrderQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">select t_refa from baandb.ttdsls040{0} where t_orno={1}</Value>
+    </Setting>
+    <Setting Name="BarcodeDebugFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefectedQueuePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mignt080\public\DoxArchive\scaner\envFlex\5</Value>
+    </Setting>
+    <Setting Name="NewInvoicePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\NewInvoices</Value>
+    </Setting>
+    <Setting Name="InvoiceLogPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Projects\FlexAutoArchiving\InvoiceLog</Value>
+    </Setting>
+    <Setting Name="CustomerPeopleQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">select distinct com001.t_emno, com001.t_nama, com001.t_telp, com971.t_code from baandb.ttccom971{0} as com971, baandb.ttccom001{0} as com001 where com971.t_emno=com001.t_emno and com971.t_citg in (Select t_citg from baandb.ttcmcs023{0} where t_cuno='{1}') and com971.t_code in ('CTR','PMR')</Value>
+    </Setting>
+    <Setting Name="DoxEnv" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Flex</Value>
+    </Setting>
+    <Setting Name="PSErrorQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Projects\FlexAutoArchiving\PackingSlips\PackingSlipError</Value>
+    </Setting>
+    <Setting Name="HTTPPrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://+:80/dashboard/</Value>
+    </Setting>
+    <Setting Name="BAANDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DSN=BAAN</Value>
+    </Setting>
+    <Setting Name="StorenextXMLLandingFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mignt002\storenext\XML_Out</Value>
+    </Setting>
+    <Setting Name="StorenextPDFLandingFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mignt002\storenext\PDF_Out</Value>
+    </Setting>
+    <Setting Name="EnableStorenextIntegration" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StorenextRanFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mignt002\public\jobs\Sale_Invoice_Storenext.txt</Value>
+    </Setting>
+    <Setting Name="IntegrationQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Projects\FlexAutoArchiving\IntegrationQueue</Value>
+    </Setting>
+    <Setting Name="IntegrationWakeUpTime" Type="System.DateTime" Scope="Application">
+      <Value Profile="(Default)">12/04/2012 02:00:00</Value>
+    </Setting>
+    <Setting Name="BAANOrd99Log" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">y:\\DMSMRB\\To Baan\\{ccc}\\in</Value>
+    </Setting>
+    <Setting Name="SuppliersQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">select t_nama, t_namc, t_refs, t_telp, t_seak from baandb.ttccom020{0} where t_suno='{1}'</Value>
+    </Setting>
+    <Setting Name="SuppliersEmailsQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">select ttccom040{0}.t_email from baandb.ttccom040{0} where  ttccom040{0}.t_suno='{1}' and ttccom040{0}.t_code=11 and ttccom040{0}.t_actv=11</Value>
+    </Setting>
+    <Setting Name="NewOrder99Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files\\DMS Inc\\DeliverNotesSetup_Test\\a</Value>
+    </Setting>
+    <Setting Name="NewOrder99ReturnedDocumentPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files\\DMS Inc\\DeliverNotesSetup_Test\\t</Value>
+    </Setting>
+    <Setting Name="Ord99EmptyPDFDocument" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files\\DMS Inc\\DeliverNotesSetup_Test\\EmptyOrd99Document.pdf</Value>
+    </Setting>
+    <Setting Name="StoreNextPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Projects\\FlexAutoArchiving\\InvoiceForStorenext\\</Value>
+    </Setting>
+    <Setting Name="GetFlexStorenextSuppliersQuery" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">select suno from baandb.ttcom811{0} where snum='{1}'</Value>
+    </Setting>
+    <Setting Name="SupplierInvoiceErrorQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Projects\\FlexAutoArchiving\\SupplierInvoiceError</Value>
+    </Setting>
+    <Setting Name="StorenextSuppInvDocPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files\\DMS Inc\\DeliverNotesSetup_Test\\s</Value>
+    </Setting>
+    <Setting Name="psXmlPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Y:\PackingSlipsBarcode\doc</Value>
+    </Setting>
+    <Setting Name="psXmlOutPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Xml_Out</Value>
+    </Setting>
+    <Setting Name="psPdfReceivedPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PDF_Received</Value>
+    </Setting>
+    <Setting Name="psPdfErrOutPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ERROR</Value>
+    </Setting>
+    <Setting Name="NewPackingSlipMIGPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Projects\\FlexAutoArchiving\\PackingSlips\\NewPackingSlipsMIG</Value>
+    </Setting>
+    <Setting Name="psSignedPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PDF_Signed</Value>
+    </Setting>
+    <Setting Name="CheckedPackingSlipMIGPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\PsCheckedWithBarcodes\\</Value>
+    </Setting>
+    <Setting Name="NumOfArchive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="CheckedPackingSlipMIGWithoutBPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\PsChecked\\</Value>
+    </Setting>
+    <Setting Name="psPdfOutPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PDF_Out</Value>
+    </Setting>
+    <Setting Name="PSPathes" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;C:\\Projects\\FlexAutoArchiving\\PackingSlips\\NewPackingSlipsMIG&lt;/string&gt;
+  &lt;string&gt;C:\\Projects\\FlexAutoArchiving\\PackingSlips\\NewPackingSlips&lt;/string&gt;
+  &lt;string&gt;\\\\mignt002\\public\\PackingSlipsBarcode\\doc\\400\\PDF_Received&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ShipmentsDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\\\10.229.8.14\\PackingSlips\\NewPackingSlipsMIG</Value>
+    </Setting>
+    <Setting Name="ReturnFiles" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">
+        &lt;?xml version="1.0" encoding="utf-16"?&gt;
+        &lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+        &lt;string&gt;\\\\mignt002\\storenext\\DOXTemp\\DOX\\Invoice\\splitsPdf&lt;/string&gt;
+        &lt;string&gt;\\\\mignt002\\storenext\\DOXTemp\\DOX\\COC\\splitsPdf&lt;/string&gt;
+        &lt;string&gt;\\\\mignt002\\storenext\\DOXTemp\\DOX\\Delivery note\\splitsPdf&lt;/string&gt;
+       
+        &lt;/ArrayOfString&gt;
+      </Value>
+    </Setting>
+    <setting name="MachsanErrors" Type="System.String" Scope="Application">
+      <value Profile="(Default)">\\\\mignt080\\media\\DoxArchive\\scaner\\envFlex\\MachsanErrors</value>
+    </setting>
+     
+  </Settings>
+</SettingsFile>

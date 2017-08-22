@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>DMS DoxPro - Flextronics Document Archiving statistics</title>
+    <style type="text/css">
+     html, body {
+        height: 100%;
+     }
+     body {
+          margin-top: -5px;
+          padding: 0 3em;
+          font: 12pt normal 'Myriad Pro', Arial, sans-serif;
+          background: rgb(208,208,208); /* Old browsers */
+          background: -moz-radial-gradient(right center, #fff, #bbb);
+          background: -webkit-radial-gradient(right center, #fff, #bbb);
+    }
+    ul {
+      padding: 0;
+      margin: 0;
+      overflow: auto;
+    }
+    li {
+      list-style: none;
+      padding: 5px 0 5px 5px;
+      margin: 1px 0;
+      border-radius: 7px;
+      border: 2px solid #bbb;
+      cursor: pointer;
+      -webkit-transition-property: border-color;
+      -webkit-transition-duration: 0.3s;
+      -webkit-transition-timing-function: ease-in-out;
+      -moz-transition-property: border-color;
+      -moz-transition-duration: 0.3s;
+      -moz-transition-timing-function: ease-in-out;
+      -o-transition-property: border-color;
+      -o-transition-duration: 0.3s;
+      -o-transition-timing-function: ease-in-out;
+
+      background: rgb(255,255,255); /* Old browsers */
+      background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(241,241,241,1) 50%, rgba(225,225,225,1) 51%, rgba(246,246,246,1) 100%); /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(241,241,241,1)), color-stop(51%,rgba(225,225,225,1)), color-stop(100%,rgba(246,246,246,1))); /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* Opera11.10+ */
+      background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%); /* W3C */
+    }
+    li:hover {
+      border-color: #36B;
+    }
+    section {
+      display: inline-table;
+      vertical-align: top;
+      align: center;
+      margin-right: 1em;
+    }
+    td {   margin-left: auto;   margin-right: auto;   width: 10em; }
+    </style>
+	</head>
+	<body>
+    <br /><br />
+    <div align="center">
+	<section>
+<ul>
+  <li><header>DMS DoxPro - Flextronics Document Archiving statistics</header></li>
+  <li>
+<!--  <header>DMS DoxPro - Flextronics Document Archiving statistics</header>
+        <table style="border-style: groove; border-width: thin; width:100%; caption-side: top; background-color: #e0e0e0;" 
+            align="center">-->
+        <table>
+            <tr style="background-color: #c0c0c0;" >
+                <td >
+                    Date</td>
+                <td >
+                    Scanned</td>
+                <td class="center">
+                    Archived</td>
+                <td >
+                    Failed</td>
+            </tr>
+            <tr style="background-color: #e0e0e0;" >
+                <td>%date%</td>
+                <td>%total%</td>
+                <td>%good%</td>
+                <td>%bad%</td>
+            </tr>
+        </table>
+  </li>
+</ul>
+</section>
+</div>	
+	</body>
+</html>

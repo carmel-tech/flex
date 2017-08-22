@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by Tal Rosenstein (private) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="InvoiceXML">
+		<xs:annotation>
+			<xs:documentation>חשבונית</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Envelope">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Sender" type="xs:string"/>
+							<xs:element name="Receiver" type="xs:string"/>
+							<xs:element name="MessageDate" type="xs:date"/>
+							<xs:element name="MessageTime" type="xs:time"/>
+							<xs:element name="Header">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="InvoiceType" type="xs:string"/>
+										<xs:element name="InvoiceNo" type="xs:string"/>
+										<xs:element name="InvoiceDate" type="xs:string"/>
+										<xs:element name="SupplierName" type="xs:string"/>
+										<xs:element name="DiscountAmount" type="xs:string"/>
+										<xs:element name="CompanyCode" type="xs:string"/>
+										<xs:element name="ExchangeRate" type="xs:string"/>
+										<xs:element name="Currency" type="xs:string"/>
+										<xs:element name="TaxInvoice">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="חשבונית מס"/>
+													<xs:enumeration value="Tax Invoice"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="DocInvoiceType">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="מקור"/>
+													<xs:enumeration value="העתק"/>
+													<xs:enumeration value="Copy"/>
+													<xs:enumeration value="Original"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="SupplierPrivateCompanyCode" type="xs:string"/>
+										<xs:element name="RetailerPrivateCompanyCode" type="xs:string"/>
+										<xs:element name="CurrencyDocSum" type="xs:string"/>
+										<xs:element name="LineSum" type="xs:decimal"/>
+										<xs:element name="DocSum" type="xs:decimal"/>                                                                            
+                                        <xs:element name="TaxSum" type="xs:decimal"/>
+                                        <xs:element name="TaxSumNIS" type="xs:string"/>
+                                        <xs:element name="CurrencyRate" type="xs:string"/>
+										<xs:element name="NumOfLines" type="xs:string"/>
+										<xs:element name="TaxRate" type="xs:decimal"/>
+										<xs:element name="Delivery" type="xs:string"/>
+										<xs:element name="Reference" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="RefType">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="entry"/>
+																<xs:enumeration value="purchaseOrder"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="RefNo" type="xs:string"/>
+													<xs:element name="RefDate" type="xs:string"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="CompanyName" type="xs:string"/>
+										<xs:element name="Address" type="xs:string"/>
+										<xs:element name="City" type="xs:string"/>
+										<xs:element name="State" type="xs:string"/>
+										<xs:element name="Country" type="xs:string"/>
+										<xs:element name="POB" type="xs:string"/>
+										<xs:element name="Zipcode" type="xs:string"/>
+										<xs:element name="PaymentTerms" type="xs:string"/>
+										<xs:element name="Bank" type="xs:string"/>
+										<xs:element name="Account" type="xs:string"/>
+										<xs:element name="SNAttachName" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Details">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Line" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="LineNo" type="xs:string"/>
+													<xs:element name="ItemBarcode" type="xs:string"/>
+                                                    <xs:element name="CustomerBarcode" type="xs:string"/>
+													<xs:element name="UnitsQty" type="xs:string"/>
+													<xs:element name="ItemPriceBruto" type="xs:string"/>
+													<xs:element name="LineSum" type="xs:string"/>
+													<xs:element name="ItemDescription" type="xs:string"/>
+													<xs:element name="PartNumber" type="xs:string"/>
+													<xs:element name="Reference" minOccurs="0" maxOccurs="unbounded">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="RefType">
+																	<xs:simpleType>
+																		<xs:restriction base="xs:string">
+																			<xs:enumeration value="entry"/>
+																			<xs:enumeration value="purchaseOrder"/>
+																		</xs:restriction>
+																	</xs:simpleType>
+																</xs:element>
+																<xs:element name="RefNo" type="xs:string"/>
+																<xs:element name="RefDate" type="xs:string"/>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

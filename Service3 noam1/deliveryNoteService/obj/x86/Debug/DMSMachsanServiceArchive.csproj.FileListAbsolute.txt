@@ -1,0 +1,118 @@
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Esther - Copy\ServiceNewToArchive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Services\3-Archive\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\ProgramsEsther\Services\3-Archive_New\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\tehila\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Index.html
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\TFS-Flextronics 21.9.2015\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\Index.html
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\new tehila\New folder\12.07 service 3\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\Index.html
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Projects\Services\Service 2+3 noam\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\Index.html
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\deliveryNoteService.exe.config
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\deliveryNoteService.exe
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\deliveryNoteService.pdb
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\BussinessLogicLayer.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\Abbyy10.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\itextsharp.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\AbbyyInterface.dll
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\bin\Debug\BussinessLogicLayer.pdb
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csprojResolveAssemblyReference.cache
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.deliveryNoteService.resources
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.ProjectInstaller.resources
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\obj\x86\Debug\DMSMachsanServiceArchive.csproj.GenerateResource.Cache
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.exe
+C:\Projects\Services\Service 2+3 noam\old\New folder\Service3 noam\deliveryNoteService\obj\x86\Debug\deliveryNoteService.pdb

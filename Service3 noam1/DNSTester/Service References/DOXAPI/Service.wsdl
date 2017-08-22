@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.dmsdox.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.dmsdox.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.dmsdox.com/">
+      <s:element name="Login">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="environment" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllDocTypes">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllDocTypesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllDocTypesResult" type="tns:ArrayOfDocType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfDocType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DocType" nillable="true" type="tns:DocType" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DocType">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BasicObject">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="DocTypeId" type="s:long" />
+              <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="TableName" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="TableCreated" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="ChildId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="TitleField" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="DataUrl" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="VerificationUrl" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Action" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Attributes" type="tns:ArrayOfDocTypeAttribute" />
+              <s:element minOccurs="0" maxOccurs="1" name="DividerSets" type="tns:ArrayOfDividerSet" />
+              <s:element minOccurs="0" maxOccurs="1" name="Groups" type="tns:ArrayOfInt" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BasicObject" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="User" type="tns:User" />
+          <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="Description" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="User">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BasicObject">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="FullName" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="LoginId" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:long" />
+              <s:element minOccurs="0" maxOccurs="1" name="Description" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="TreeItem">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BasicObject">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Parent" type="tns:TreeItem" />
+              <s:element minOccurs="1" maxOccurs="1" name="ItemType" type="tns:TreeItemTypes" />
+              <s:element minOccurs="1" maxOccurs="1" name="OrderNumber" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="Title" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="SubTitle" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="UniqueKey" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="InsertedDate" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="UpdatedDate" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="BookId" type="s:long" />
+              <s:element minOccurs="0" maxOccurs="1" name="IdPath" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="NoFiles" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="DefDiv" type="s:boolean" />
+              <s:element minOccurs="0" maxOccurs="1" name="Children" type="tns:ArrayOfTreeItem" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:simpleType name="TreeItemTypes">
+        <s:restriction base="s:string">
+          <s:enumeration value="Unavailable" />
+          <s:enumeration value="Branch" />
+          <s:enumeration value="Binder" />
+          <s:enumeration value="Divider" />
+          <s:enumeration value="Document" />
+        </s:restriction>
+      </s:simpleType>
+      <s:complexType name="ArrayOfTreeItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TreeItem" nillable="true" type="tns:TreeItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TreeItemWithDocType">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:TreeItem">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="DocType" type="tns:DocType" />
+              <s:element minOccurs="0" maxOccurs="1" name="Fields" type="tns:ArrayOfField" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfField">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Field" nillable="true" type="tns:Field" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Field">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Attr" type="tns:DocTypeAttribute" />
+          <s:element minOccurs="0" maxOccurs="1" name="Value" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DocTypeAttribute">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BasicObject">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="InSearch" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="Enabled" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="Order" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="ColumnName" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="AttribId" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="DType" type="tns:DataTypes" />
+              <s:element minOccurs="0" maxOccurs="1" name="Help" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="DefaultValue" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="CommandHeight" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="DefaultSearch" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="Title" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="SystemField" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="UniqueFieldVal" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="MaxLength" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:simpleType name="DataTypes">
+        <s:restriction base="s:string">
+          <s:enumeration value="Alphanumeric" />
+          <s:enumeration value="Numeric" />
+          <s:enumeration value="DateTime" />
+          <s:enumeration value="YesNo" />
+          <s:enumeration value="Lookup" />
+          <s:enumeration value="Dlookup" />
+          <s:enumeration value="NumValue" />
+          <s:enumeration value="LinkField" />
+        </s:restriction>
+      </s:simpleType>
+      <s:complexType name="Divider">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:TreeItemWithDocType">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="PartOrder" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="PartLetter" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="DividerTemplate">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BasicObject">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="DocType" type="tns:DocType" />
+              <s:element minOccurs="0" maxOccurs="1" name="Set" type="tns:DividerSet" />
+              <s:element minOccurs="1" maxOccurs="1" name="Doc" type="s:boolean" />
+              <s:element minOccurs="0" maxOccurs="1" name="ChildDocType" type="tns:DocType" />
+              <s:element minOccurs="0" maxOccurs="1" name="DividerDocType" type="tns:DocType" />
+              <s:element minOccurs="1" maxOccurs="1" name="DefaultDocument" type="s:boolean" />
+              <s:element minOccurs="0" maxOccurs="1" name="Instance" type="tns:Divider" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="DividerSet">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BasicObject">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="SetId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="DocType" type="tns:DocType" />
+              <s:element minOccurs="0" maxOccurs="1" name="SetName" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="SetDesc" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="BaseSet" type="tns:DividerSet" />
+              <s:element minOccurs="1" maxOccurs="1" name="IsNew" type="s:boolean" />
+              <s:element minOccurs="1" maxOccurs="1" name="Order" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="DefaultDividers" type="tns:ArrayOfDividerTemplate" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfDividerTemplate">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DividerTemplate" nillable="true" type="tns:DividerTemplate" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfDocTypeAttribute">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DocTypeAttribute" nillable="true" type="tns:DocTypeAttribute" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfDividerSet">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DividerSet" nillable="true" type="tns:DividerSet" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInt">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="int" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="docToSearch" type="tns:Document" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Document">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Divider">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="FileName" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="Pages" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="CurrentPage" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="SubDocs" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="ExtName" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="BoxNumber" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="ArchivedDate" type="s:dateTime" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="GetDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDocumentResult" type="tns:Document" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTreeItemWithDocType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="itemToSearch" type="tns:TreeItemWithDocType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTreeItemWithDocTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTreeItemWithDocTypeResult" type="tns:TreeItemWithDocType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateTreeItemWithDocType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="updateItem" type="tns:TreeItemWithDocType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateTreeItemWithDocTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateTreeItemWithDocTypeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeleteDocumentResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Archive">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="doc" type="tns:Document" />
+            <s:element minOccurs="0" maxOccurs="1" name="binder" type="tns:Binder" />
+            <s:element minOccurs="0" maxOccurs="1" name="dividerPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ocr" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Binder">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:TreeItemWithDocType">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="DiskFolder" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="ArchiveResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ArchiveResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindTreeItemWithDocType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="searchFields" type="tns:ArrayOfSearchField" />
+            <s:element minOccurs="1" maxOccurs="1" name="docTypeId" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfSearchField">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SearchField" nillable="true" type="tns:SearchField" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SearchField">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FieldName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FieldValue" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SearchType" type="tns:SearchTypes" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="SearchTypes">
+        <s:restriction base="s:string">
+          <s:enumeration value="StartWith" />
+          <s:enumeration value="Partial" />
+          <s:enumeration value="Exact" />
+          <s:enumeration value="RangeDate" />
+          <s:enumeration value="RangeNumeric" />
+        </s:restriction>
+      </s:simpleType>
+      <s:complexType name="ArrayOfTreeItemWithDocType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TreeItemWithDocType" nillable="true" type="tns:TreeItemWithDocType" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="FindTreeItemWithDocTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FindTreeItemWithDocTypeResult" type="tns:ArrayOfTreeItemWithDocType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDocType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDocTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDocTypeResult" type="tns:DocType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateBinder">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="binder" type="tns:Binder" />
+            <s:element minOccurs="0" maxOccurs="1" name="parentBranch" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dividerSet" type="tns:DividerSet" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateBinderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CreateBinderResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadFileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="test">
+        <s:complexType />
+      </s:element>
+      <s:element name="testResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="testResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoggenInUsers">
+        <s:complexType />
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="LoggenInUsersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoggenInUsersResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBarCodes">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBarCodesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBarCodesResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="QuickBarCode">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="QuickBarCodeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="QuickBarCodeResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDocumentURL">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDocumentURLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDocumentURLResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetQueryURL">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="searchFields" type="tns:ArrayOfSearchField" />
+            <s:element minOccurs="1" maxOccurs="1" name="docTypeId" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetQueryURLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetQueryURLResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="LoginSoapIn">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="LoginSoapOut">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllDocTypesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllDocTypes" />
+  </wsdl:message>
+  <wsdl:message name="GetAllDocTypesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllDocTypesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDocument" />
+  </wsdl:message>
+  <wsdl:message name="GetDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTreeItemWithDocTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTreeItemWithDocType" />
+  </wsdl:message>
+  <wsdl:message name="GetTreeItemWithDocTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTreeItemWithDocTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateTreeItemWithDocTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateTreeItemWithDocType" />
+  </wsdl:message>
+  <wsdl:message name="UpdateTreeItemWithDocTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateTreeItemWithDocTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteDocument" />
+  </wsdl:message>
+  <wsdl:message name="DeleteDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="ArchiveSoapIn">
+    <wsdl:part name="parameters" element="tns:Archive" />
+  </wsdl:message>
+  <wsdl:message name="ArchiveSoapOut">
+    <wsdl:part name="parameters" element="tns:ArchiveResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindTreeItemWithDocTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:FindTreeItemWithDocType" />
+  </wsdl:message>
+  <wsdl:message name="FindTreeItemWithDocTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:FindTreeItemWithDocTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDocTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDocType" />
+  </wsdl:message>
+  <wsdl:message name="GetDocTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDocTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreateBinderSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateBinder" />
+  </wsdl:message>
+  <wsdl:message name="CreateBinderSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateBinderResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadFileSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadFile" />
+  </wsdl:message>
+  <wsdl:message name="UploadFileSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="testSoapIn">
+    <wsdl:part name="parameters" element="tns:test" />
+  </wsdl:message>
+  <wsdl:message name="testSoapOut">
+    <wsdl:part name="parameters" element="tns:testResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoggenInUsersSoapIn">
+    <wsdl:part name="parameters" element="tns:LoggenInUsers" />
+  </wsdl:message>
+  <wsdl:message name="LoggenInUsersSoapOut">
+    <wsdl:part name="parameters" element="tns:LoggenInUsersResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBarCodesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBarCodes" />
+  </wsdl:message>
+  <wsdl:message name="GetBarCodesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBarCodesResponse" />
+  </wsdl:message>
+  <wsdl:message name="QuickBarCodeSoapIn">
+    <wsdl:part name="parameters" element="tns:QuickBarCode" />
+  </wsdl:message>
+  <wsdl:message name="QuickBarCodeSoapOut">
+    <wsdl:part name="parameters" element="tns:QuickBarCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDocumentURLSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDocumentURL" />
+  </wsdl:message>
+  <wsdl:message name="GetDocumentURLSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDocumentURLResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryURLSoapIn">
+    <wsdl:part name="parameters" element="tns:GetQueryURL" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryURLSoapOut">
+    <wsdl:part name="parameters" element="tns:GetQueryURLResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="Login">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Login to dox-pro with userName, password and environment</wsdl:documentation>
+      <wsdl:input message="tns:LoginSoapIn" />
+      <wsdl:output message="tns:LoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDocTypes">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get a list of all the Document types</wsdl:documentation>
+      <wsdl:input message="tns:GetAllDocTypesSoapIn" />
+      <wsdl:output message="tns:GetAllDocTypesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocument">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Search for a document and get it if found only one</wsdl:documentation>
+      <wsdl:input message="tns:GetDocumentSoapIn" />
+      <wsdl:output message="tns:GetDocumentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTreeItemWithDocType">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Search for a tree item with docType and get it if found only one</wsdl:documentation>
+      <wsdl:input message="tns:GetTreeItemWithDocTypeSoapIn" />
+      <wsdl:output message="tns:GetTreeItemWithDocTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTreeItemWithDocType">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">update properties of an existing tree item with docType. Item with valid id must be supplied, item must contain modified values of properties to update - modifications will be saved. Supplying item with docType different than DocType already associated with given item ID will generate an exception.</wsdl:documentation>
+      <wsdl:input message="tns:UpdateTreeItemWithDocTypeSoapIn" />
+      <wsdl:output message="tns:UpdateTreeItemWithDocTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDocument">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Delete an existing document. a Document with valid id must be supplied</wsdl:documentation>
+      <wsdl:input message="tns:DeleteDocumentSoapIn" />
+      <wsdl:output message="tns:DeleteDocumentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Archive">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Search for file and divider and archive a document there</wsdl:documentation>
+      <wsdl:input message="tns:ArchiveSoapIn" />
+      <wsdl:output message="tns:ArchiveSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindTreeItemWithDocType">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Search for TIWDT using search criteria supplied for metadata</wsdl:documentation>
+      <wsdl:input message="tns:FindTreeItemWithDocTypeSoapIn" />
+      <wsdl:output message="tns:FindTreeItemWithDocTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocType">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get a doc type by ID</wsdl:documentation>
+      <wsdl:input message="tns:GetDocTypeSoapIn" />
+      <wsdl:output message="tns:GetDocTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateBinder">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Create a new binder using branch and divider set(can be null)</wsdl:documentation>
+      <wsdl:input message="tns:CreateBinderSoapIn" />
+      <wsdl:output message="tns:CreateBinderSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadFile">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Upload a file to a special folder and return it's path</wsdl:documentation>
+      <wsdl:input message="tns:UploadFileSoapIn" />
+      <wsdl:output message="tns:UploadFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <wsdl:input message="tns:testSoapIn" />
+      <wsdl:output message="tns:testSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LoggenInUsers">
+      <wsdl:input message="tns:LoggenInUsersSoapIn" />
+      <wsdl:output message="tns:LoggenInUsersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBarCodes">
+      <wsdl:input message="tns:GetBarCodesSoapIn" />
+      <wsdl:output message="tns:GetBarCodesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="QuickBarCode">
+      <wsdl:input message="tns:QuickBarCodeSoapIn" />
+      <wsdl:output message="tns:QuickBarCodeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentURL">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns url needed to display specified document directly in DoxPro Browser</wsdl:documentation>
+      <wsdl:input message="tns:GetDocumentURLSoapIn" />
+      <wsdl:output message="tns:GetDocumentURLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetQueryURL">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns url needed to display specified query and results directly in DoxPro Browser</wsdl:documentation>
+      <wsdl:input message="tns:GetQueryURLSoapIn" />
+      <wsdl:output message="tns:GetQueryURLSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://www.dmsdox.com/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDocTypes">
+      <soap:operation soapAction="http://www.dmsdox.com/GetAllDocTypes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocument">
+      <soap:operation soapAction="http://www.dmsdox.com/GetDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTreeItemWithDocType">
+      <soap:operation soapAction="http://www.dmsdox.com/GetTreeItemWithDocType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTreeItemWithDocType">
+      <soap:operation soapAction="http://www.dmsdox.com/UpdateTreeItemWithDocType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDocument">
+      <soap:operation soapAction="http://www.dmsdox.com/DeleteDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Archive">
+      <soap:operation soapAction="http://www.dmsdox.com/Archive" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindTreeItemWithDocType">
+      <soap:operation soapAction="http://www.dmsdox.com/FindTreeItemWithDocType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocType">
+      <soap:operation soapAction="http://www.dmsdox.com/GetDocType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateBinder">
+      <soap:operation soapAction="http://www.dmsdox.com/CreateBinder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadFile">
+      <soap:operation soapAction="http://www.dmsdox.com/UploadFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <soap:operation soapAction="http://www.dmsdox.com/test" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoggenInUsers">
+      <soap:operation soapAction="http://www.dmsdox.com/LoggenInUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBarCodes">
+      <soap:operation soapAction="http://www.dmsdox.com/GetBarCodes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QuickBarCode">
+      <soap:operation soapAction="http://www.dmsdox.com/QuickBarCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentURL">
+      <soap:operation soapAction="http://www.dmsdox.com/GetDocumentURL" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetQueryURL">
+      <soap:operation soapAction="http://www.dmsdox.com/GetQueryURL" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Login">
+      <soap12:operation soapAction="http://www.dmsdox.com/Login" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllDocTypes">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetAllDocTypes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocument">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTreeItemWithDocType">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetTreeItemWithDocType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTreeItemWithDocType">
+      <soap12:operation soapAction="http://www.dmsdox.com/UpdateTreeItemWithDocType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDocument">
+      <soap12:operation soapAction="http://www.dmsdox.com/DeleteDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Archive">
+      <soap12:operation soapAction="http://www.dmsdox.com/Archive" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindTreeItemWithDocType">
+      <soap12:operation soapAction="http://www.dmsdox.com/FindTreeItemWithDocType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocType">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetDocType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateBinder">
+      <soap12:operation soapAction="http://www.dmsdox.com/CreateBinder" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadFile">
+      <soap12:operation soapAction="http://www.dmsdox.com/UploadFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <soap12:operation soapAction="http://www.dmsdox.com/test" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoggenInUsers">
+      <soap12:operation soapAction="http://www.dmsdox.com/LoggenInUsers" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBarCodes">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetBarCodes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QuickBarCode">
+      <soap12:operation soapAction="http://www.dmsdox.com/QuickBarCode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentURL">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetDocumentURL" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetQueryURL">
+      <soap12:operation soapAction="http://www.dmsdox.com/GetQueryURL" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://dms2.myvnc.com/API/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://dms2.myvnc.com/API/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
